@@ -1,0 +1,7 @@
+.row .add {
+    margin-top: 4%;
+    margin-bottom: 2%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: end;
+}
